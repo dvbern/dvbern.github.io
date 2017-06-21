@@ -7,6 +7,6 @@
 {% for repository in site.github.public_repositories %}
   * {{ repository.description }}
   
-   [{{ repository.name }}](repository.url)
+   [{{ repository.name }}](https://github.com/dvbern/{{ repository.name }})
 
 {% endfor %}
