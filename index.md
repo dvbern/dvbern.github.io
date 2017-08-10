@@ -5,8 +5,7 @@
 **Our GitHub Repositories:**
 
 {% for repository in site.github.public_repositories %}
-  * {{ repository.description }}
-  
-   [{{ repository.name }}]({{ repository.html_url }})
+	* [{{ repository.name }}]({{ repository.html_url }})
+		{{ repository.description }}
 
 {% endfor %}
