@@ -11,3 +11,8 @@
    {{ repository.description }}
 
 {% endfor %}
+
+**Client projects on GitHub:**
+  * [Ki-Tax](https://github.com/StadtBern/Ki-Tax)
+  
+   System for the management of external childcare subsidies (Kita Betreuungsgutscheine)
