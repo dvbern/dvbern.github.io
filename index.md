@@ -1,4 +1,4 @@
-![](dvbern.jpg?raw=true)
+![](dvbern.png?raw=true)
 
 [www.dvbern.ch](http://www.dvbern.ch)
 
