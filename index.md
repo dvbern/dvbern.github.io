@@ -1,5 +1,3 @@
-# DV Bern AG
-
 ![](dvbern.jpg?raw=true)
 
 [www.dvbern.ch](http://www.dvbern.ch)
