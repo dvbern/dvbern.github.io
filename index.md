@@ -1,6 +1,6 @@
 # DV Bern AG
 
-![DV Bern](https://www.dvbern.ch/public/dist/img/logo/dvbern.png?raw=true)
+![](dvbern.jpg?raw=true)
 
 [www.dvbern.ch](http://www.dvbern.ch)
 
