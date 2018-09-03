@@ -1,6 +1,7 @@
 # DV Bern AG
 
 ![DV Bern](https://www.dvbern.ch/public/dist/img/logo/dvbern.png)
+
 [www.dvbern.ch](http://www.dvbern.ch)
 
 **Client projects on GitHub:**
