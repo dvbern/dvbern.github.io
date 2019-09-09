@@ -5,7 +5,12 @@
 **Client projects on GitHub:**
   * [Ki-Tax](https://github.com/StadtBern/Ki-Tax)
   
-   System for the management of external childcare subsidies (Kita Betreuungsgutscheine)
+   System for the management of external childcare subsidies (Kita Betreuungsgutscheine) - City of Berne
+   
+  * [KiBon] (https://github.com/dvbern/kiBon)
+   
+   System for the management of external childcare subsidies (Kita Betreuungsgutscheine) - Canton Berne
+   KiBon is a fork of Ki-Tax.
    
 **Our GitHub Repositories:**
 
