@@ -7,7 +7,7 @@
   
    System for the management of external childcare subsidies (Kita Betreuungsgutscheine) - City of Berne
    
-  * [KiBon] (https://github.com/dvbern/kiBon)
+  * [KiBon](https://github.com/dvbern/kiBon)
    
    System for the management of external childcare subsidies (Kita Betreuungsgutscheine) - Canton Berne
    KiBon is a fork of Ki-Tax.
