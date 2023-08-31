@@ -21,6 +21,7 @@
    
    [STIP frontend](https://github.com/dvbern/stip-frontend)\
    [STIP API](https://github.com/dvbern/stip-api)\
+   
    System for scholarship management - Canton Berne\
    STIP online is based on KiBon.
    
