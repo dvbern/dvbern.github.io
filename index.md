@@ -6,7 +6,7 @@
   * VacMe
 
     [VacMe BE](https://github.com/dvbern/vacme-be-oss)\
-    [VacMe ZH](https://github.com/dvbern/vacme-zh-oss)\
+    [VacMe ZH](https://github.com/dvbern/vacme-zh-oss)
 
     System for administrating vaccinations (registration, appointments, planning and documentation).
     
