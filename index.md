@@ -13,12 +13,13 @@ System for administrating vaccinations (registration, appointments, planning and
     
 ## [KiBon](https://github.com/dvbern/kiBon)
    
-System for the management of external childcare subsidies (Kita Betreuungsgutscheine) - Canton Berne\
+[kibon.ch](https://kibon.ch)\
+System for the management of external childcare subsidies (Kita Betreuungsgutscheine)\
 KiBon is based on Ki-Tax.
    
 ## [Ki-Tax](https://github.com/StadtBern/Ki-Tax)
   
-System for the management of external childcare subsidies (Kita Betreuungsgutscheine) - City of Berne\
+System for the management of external childcare subsidies (Kita Betreuungsgutscheine) - pilot project City of Berne\
    
 ## STIP online
    
