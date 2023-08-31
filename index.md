@@ -13,7 +13,7 @@ WebApp for administrating vaccinations\
 (registration, appointments, planning and documentation).
     
 ## KiBon
-[www.kibon.ch](https://kibon.ch){:target="_blank"}\
+[www.kibon.ch](https://kibon.ch)\
 [https://github.com/dvbern/kiBon](https://github.com/dvbern/kiBon)
 
 WebApp for the management of external childcare subsidies for Swiss cantons\
