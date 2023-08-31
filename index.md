@@ -11,7 +11,8 @@
   * [KiBon](https://github.com/dvbern/kiBon)
    
    System for the management of external childcare subsidies (Kita Betreuungsgutscheine) - Canton Berne
-   KiBon is a fork of Ki-Tax.
+   
+   KiBon is based on Ki-Tax.
    
   * [Ki-Tax](https://github.com/StadtBern/Ki-Tax)
   
@@ -22,6 +23,7 @@
    [STIP frontend](https://github.com/dvbern/stip-frontend)
    [STIP API](https://github.com/dvbern/stip-api)
    System for scholarship management - Canton Berne
+   
    STIP online is based on KiBon.
    
 **Our GitHub Repositories:**
