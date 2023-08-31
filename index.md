@@ -5,7 +5,7 @@
 
 
 # Projects on GitHub:
-  ## VacMe
+## VacMe
 [VacMe BE](https://github.com/dvbern/vacme-be-oss)\
 [VacMe ZH](https://github.com/dvbern/vacme-zh-oss)
 
