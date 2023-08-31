@@ -6,29 +6,33 @@
 
 # Projects on GitHub:
 ## VacMe
-[VacMe BE](https://github.com/dvbern/vacme-be-oss)\
-[VacMe ZH](https://github.com/dvbern/vacme-zh-oss)
+[https://github.com/dvbern/vacme-be-oss](https://github.com/dvbern/vacme-be-oss)\
+[https://github.com/dvbern/vacme-zh-oss](https://github.com/dvbern/vacme-zh-oss)
 
-System for administrating vaccinations (registration, appointments, planning and documentation).
+WebApp for administrating vaccinations (registration, appointments, planning and documentation).
     
-## [KiBon](https://github.com/dvbern/kiBon)
-   
+## KiBon
 [kibon.ch](https://kibon.ch)\
-System for the management of external childcare subsidies (Kita Betreuungsgutscheine)\
+[https://github.com/dvbern/kiBon](https://github.com/dvbern/kiBon)
+
+WebApp for the management of external childcare subsidies (Kita Betreuungsgutscheine)\
 KiBon is based on Ki-Tax.
    
-## [Ki-Tax](https://github.com/StadtBern/Ki-Tax)
-  
-System for the management of external childcare subsidies (Kita Betreuungsgutscheine) - pilot project City of Berne\
+## Ki-Tax
+[https://github.com/StadtBern/Ki-Tax](https://github.com/StadtBern/Ki-Tax)
+
+WebApp for the management of external childcare subsidies (Kita Betreuungsgutscheine).
+\Pilot project City of Berne\
    
 ## STIP online
    
-[STIP frontend](https://github.com/dvbern/stip-frontend)\
-[STIP API](https://github.com/dvbern/stip-api)
+[https://github.com/dvbern/stip-frontend](https://github.com/dvbern/stip-frontend)\
+[https://github.com/dvbern/stip-api](https://github.com/dvbern/stip-api)
    
-System for scholarship management - Canton Berne\
+WebApp for scholarship management (Stipendien) - Canton Berne\
 STIP online is based on KiBon.
-   
+
+
 # Our GitHub Repositories:
 
 {% for repository in site.github.public_repositories %}
